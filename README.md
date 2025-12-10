@@ -37,14 +37,13 @@ The analysis, covering user behavior from 2018-2023, revealed critical insights 
 
 ## 📁 Repository Deliverables
 
-| File Name | Content & Review Focus |
-| :--- | :--- |
-| `Report-Based Project (1).xlsx - Data.csv` | The raw, base data used for all analysis and segmentation. |
-| `Report-Based Project (1).xlsx - Visuals C.csv` | Data prepared for chart visualization (e.g., aggregated counts, trends). |
-| `Report-Based Project (1).xlsx - Insights and recommendations.csv` | The source data for the final conclusions and strategic advice. |
-| `Report-Based Project (1).xlsx - Report.csv` | The foundational data table for the final report structure. |
-| [`Fresh_Beats_Growth_Strategy_Report.pdf`](LINK_TO_YOUR_FINAL_REPORT_PDF) | **The FINAL Stakeholder Report (PDF)** summarizing all key findings, visualizations, and actionable recommendations. **(Highly Recommended to Link)** |
+The two primary deliverables are the final strategic report and the underlying analysis file:
+
+| Deliverable | Description | Link |
+| :--- | :--- | :--- |
+| **Final Strategic Report (PDF)** | **The executive summary** with all key findings, visualizations, and actionable recommendations. | **[View PDF Report](LINK_TO_YOUR_FINAL_REPORT_PDF)** |
+| **Analysis Workbook (XLSX)** | **The full Excel file** containing all the raw data, pivot tables, and underlying calculations. | **[View Analysis Workbook](LINK_TO_YOUR_EXCEL_FILE_XLSX)** |
 
 ### ➡️ How to Review the Project
 
-To review the primary business insights and actionable recommendations, click the **Final Report PDF link** above. This document showcases the direct business value of the analysis.
+To review the primary business insights and actionable recommendations, click the **Final Strategic Report (PDF) link** above.
