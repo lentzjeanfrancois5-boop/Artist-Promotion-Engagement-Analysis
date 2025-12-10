@@ -41,7 +41,7 @@ The two primary deliverables are the final strategic report and the underlying a
 
 | Deliverable | Description | Link |
 | :--- | :--- | :--- |
-| **Final Strategic Report (PDF)** | **The executive summary** with all key findings, visualizations, and actionable recommendations. | **[View PDF Report](LINK_TO_YOUR_FINAL_REPORT_PDF)** |
+| **Final Strategic Report (PDF)** | **The executive summary** with all key findings, visualizations, and actionable recommendations. | **[View PDF Report](https://github.com/lentzjeanfrancois5-boop/Artist-Promotion-Engagement-Analysis/blob/main/Report-Based%20Project%20(1).xlsx)** |
 | **Analysis Workbook (XLSX)** | **The full Excel file** containing all the raw data, pivot tables, and underlying calculations. | **[View Analysis Workbook](LINK_TO_YOUR_EXCEL_FILE_XLSX)** |
 
 ### ➡️ How to Review the Project
